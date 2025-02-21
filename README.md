@@ -96,7 +96,7 @@ IT 기업의 코딩 테스트를 준비하는 개발자들에게 **효율적인 
 
 ---
 
-## 📜 API 명세 (API Documentation)
+## 📜 API 명세 (API Documentation) - 예정
 📌 API 문서는 [`docs/API_SPEC.md`](docs/API_SPEC.md)에서 확인할 수 있습니다.  
 📌 시스템 아키텍처 설계는 [`docs/SYSTEM_ARCH.md`](docs/SYSTEM_ARCH.md)에서 확인할 수 있습니다.  
 
